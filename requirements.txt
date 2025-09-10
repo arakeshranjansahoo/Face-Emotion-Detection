@@ -1,0 +1,7 @@
+tensorflow
+keras
+opencv-python
+flask         # or streamlit, if used
+numpy
+matplotlib    # if used in plotting within ML.ipynb
+jupyter
